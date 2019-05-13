@@ -32,16 +32,16 @@
 *.app
 
  # UE4 Project directories to ignore
- /Binaries/
- /DerivedDataCache/
- /Intermediate/
- /Content/StarterContent/
- /Content/AnimStarterPack+/
- /Content/Mannequin/
- /Content/ThirdPerson/
- /Content/ThirdPersonBP/
- /Saved/
- /Build/
+Binaries/
+DerivedDataCache/
+/Intermediate/
+Content/StarterContent/
+Content/AnimStarterPack+/
+Content/Mannequin/
+Content/ThirdPerson/
+Content/ThirdPersonBP/
+Saved/
+Build/
 
  # Visual Studio solutions
  /*.sln
